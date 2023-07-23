@@ -1,7 +1,7 @@
 import '../App.css';
 import { Outlet, Link } from "react-router-dom";
 
-export function BrowseSpecific(){
+export function BrowseCleats(){
     return(
         <>
             <body>
@@ -162,9 +162,9 @@ export function BrowseSpecific(){
                             <div class="row">
                                 <div class="col-lg-2 col-md-4 col-sm-6 mb-2 mx-auto content">
                                     <div class="card card-sm">
-                                    <img src="https://cf.ijersey.ru/upload/ttmall/img/20220913/4ed0fb1aa13d93e4e4a80eb3e01e5c61.png=z-0,0_f-webp" class="card-img-top" alt="FC Barcelona Away Jersey"></img>
+                                    <img src="https://unitedsport.ca/cdn/shop/products/Shop-Nike-Junior-Mercurial-Vapor-13-Club-MG-AT8161-606-Multi-Ground-Soccer-Cleat-Edmonton-Canada_875x.jpg?v=1618512905" class="card-img-top" alt="Nike Cleats"></img>
                                     <div class="card-body">
-                                        <p>FC Barcelona Away Jersey</p>
+                                        <p>Nike Cleats</p>
                                         <Link to="/item" class="stretched-link"></Link>
                                         <p class="card-text" style={{float: "right"}}>$55</p>
                                     </div>
@@ -172,9 +172,9 @@ export function BrowseSpecific(){
                                 </div>
                                 <div class="col-lg-2 col-md-4 col-sm-6 mb-2 mx-auto content">
                                     <div class="card card-sm">
-                                    <img src="https://citysoccerp.com/cdn/shop/products/image_aa57d3a7-c27c-43fa-9fa1-66acf305d906_1200x1200.jpg?v=1661964487" class="card-img-top" alt="Real Madrid Home Jersey"></img>
+                                    <img src="https://media-www.sportchek.ca/product/div-05-footwear/dpt-80-footwear/sdpt-03-boys/333642458/nike-mercurial-superfly-8-club-mg-blk-gry-222-k-899cc87e-6b88-405c-84ea-8aa6e48045d3-jpgrendition.jpg" class="card-img-top" alt="Nike cleats"></img>
                                     <div class="card-body">
-                                        <p>Real Madrid Home Jersey</p>
+                                        <p>Nike Cleats</p>
                                         <Link to="/item" class="stretched-link"></Link>
                                         <p class="card-text" style={{float: "right"}}>$55</p>
                                     </div>
@@ -182,9 +182,9 @@ export function BrowseSpecific(){
                                 </div>
                                 <div class="col-lg-2 col-md-4 col-sm-6 mb-2 mx-auto content">
                                     <div class="card card-sm">
-                                    <img src="https://www.evangelistasports.com/31170-medium_default/adidas-fc-bayern-munich-home-jersey-202223-H39900.jpg" class="card-img-top" alt="Bayern Munich Home Jersey"></img>
+                                    <img src="https://www.sourceforsports.ca/cdn/shop/products/4bfab696ac5534c39757765ad9327a81.jpg?v=1678404243" class="card-img-top" alt="Puma Cleats"></img>
                                     <div class="card-body">
-                                        <p>Bayern Munich Home Jersey</p>
+                                        <p>Puma Cleats</p>
                                         <Link to="/item" class="stretched-link"></Link>
                                         <p class="card-text" style={{float: "right"}}>$55</p>
                                     </div>
@@ -196,9 +196,9 @@ export function BrowseSpecific(){
                             <div class="row">
                                 <div class="col-lg-2 col-md-4 col-sm-6 mb-2 mx-auto content">
                                     <div class="card card-sm">
-                                    <img src="https://www.tfcfootball.com.my/wp-content/uploads/2023/05/770383-01.jpg" class="card-img-top" alt="AC Milan Home Jersey"></img>
+                                    <img src="https://www.nikys-sports.com/cdn/shop/products/DJ4977-146-PHSRH000-2000_5000x.jpg?v=1674006941" class="card-img-top" alt="Nike cleats"></img>
                                     <div class="card-body">
-                                        <p>AC Milan Home Jersey</p>
+                                        <p>Nike Cleats</p>
                                         <Link to="/item" class="stretched-link"></Link>
                                         <p class="card-text" style={{float: "right"}}>$55</p>
                                     </div>
@@ -206,9 +206,9 @@ export function BrowseSpecific(){
                                 </div>
                                 <div class="col-lg-2 col-md-4 col-sm-6 mb-2 mx-auto content">
                                     <div class="card card-sm invis">
-                                    <img src="https://citysoccerp.com/cdn/shop/products/image_aa57d3a7-c27c-43fa-9fa1-66acf305d906_1200x1200.jpg?v=1661964487" class="card-img-top" alt="Juventus Home Jersey"></img>
+                                    <img src="https://eurosport.com.mt/images/thumbs/0127843_predator-pro-goalkeeper-gloves_500.jpeg" class="card-img-top" alt="Predator Pro Gloves"></img>
                                     <div class="card-body">
-                                        <p>Juventus Home Jersey</p>
+                                        <p>Predator Pro gloves</p>
                                         <Link to="/item" class="stretched-link"></Link>
                                         <p class="card-text" style={{float: "right"}}>$55</p>
                                     </div>
@@ -284,4 +284,4 @@ export function BrowseSpecific(){
 
 }
 
-export default BrowseSpecific;
+export default BrowseCleats;

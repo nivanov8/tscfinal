@@ -18,6 +18,8 @@ import HomepageFR from './Components/HomepageFR';
 import BrowseNational from './Components/BrowseNational';
 import BrowseGloves from './Components/BrowseGloves';
 import NotFound from './Components/NotFound';
+import BrowseCleats from './Components/BrowseCleats';
+import BrowseTurf from './Components/BrowseTurf';
 
 function App() {
   return (
@@ -40,6 +42,8 @@ function App() {
       <Route path="/homepagefr" element={<HomepageFR />} />
       <Route path="/browsenational" element={<BrowseNational />} />
       <Route path="/browsegloves" element={<BrowseGloves />} />
+      <Route path="/browsecleats" element={<BrowseCleats />} />
+      <Route path="/browseturf" element={<BrowseTurf />} />
       <Route path="*" element={<NotFound />} />
     </Routes>
     </>

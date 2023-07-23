@@ -111,10 +111,10 @@ export function BrowseGloves(){
                                     </h2>
                                     <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
                                     <div class="accordion-body">
-                                        <Link to="/browsespecific" style={{ textDecoration: 'none', color: "grey", marginLeft: "2em"}}>Cleats</Link>
+                                        <Link to="/browsecleats" style={{ textDecoration: 'none', color: "grey", marginLeft: "2em"}}>Cleats</Link>
                                         <br></br>
                                         <br></br>
-                                        <Link to="/browsespecific" style={{ textDecoration: 'none', color: "grey", marginLeft: "2em"}}>Turf</Link>
+                                        <Link to="/browseturf" style={{ textDecoration: 'none', color: "grey", marginLeft: "2em"}}>Turf</Link>
                                         <br></br>
                                         <br></br>
                                         <Link to="/browsespecific" style={{ textDecoration: 'none', color: "grey", marginLeft: "2em"}}>Indoor</Link>
@@ -208,7 +208,7 @@ export function BrowseGloves(){
                                     <div class="card card-sm invis">
                                     <img src="https://eurosport.com.mt/images/thumbs/0127843_predator-pro-goalkeeper-gloves_500.jpeg" class="card-img-top" alt="Predator Pro Gloves"></img>
                                     <div class="card-body">
-                                        <p>Predator Pro gloves</p>
+                                        <p>Predator Pro Gloves</p>
                                         <Link to="/item" class="stretched-link"></Link>
                                         <p class="card-text" style={{float: "right"}}>$55</p>
                                     </div>

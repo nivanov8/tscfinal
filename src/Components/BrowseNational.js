@@ -111,10 +111,10 @@ export function BrowseNational(){
                                     </h2>
                                     <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
                                     <div class="accordion-body">
-                                        <Link to="/browsespecific" style={{ textDecoration: 'none', color: "grey", marginLeft: "2em"}}>Cleats</Link>
+                                        <Link to="/browsecleats" style={{ textDecoration: 'none', color: "grey", marginLeft: "2em"}}>Cleats</Link>
                                         <br></br>
                                         <br></br>
-                                        <Link to="/browsespecific" style={{ textDecoration: 'none', color: "grey", marginLeft: "2em"}}>Turf</Link>
+                                        <Link to="/browseturf" style={{ textDecoration: 'none', color: "grey", marginLeft: "2em"}}>Turf</Link>
                                         <br></br>
                                         <br></br>
                                         <Link to="/browsespecific" style={{ textDecoration: 'none', color: "grey", marginLeft: "2em"}}>Indoor</Link>
