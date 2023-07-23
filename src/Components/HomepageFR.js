@@ -70,7 +70,7 @@ export function HomepageFR(){
                     <div class="row">
                         <div class="col-lg-3 mb-2 mx-auto">
                             <div class="card">
-                                <img src="https://cf.ijersey.ru/upload/ttmall/img/20220913/4ed0fb1aa13d93e4e4a80eb3e01e5c61.png=z-0,0_f-webp" class="card-img-top" alt="..."></img>
+                                <img src="https://cf.ijersey.ru/upload/ttmall/img/20220913/4ed0fb1aa13d93e4e4a80eb3e01e5c61.png=z-0,0_f-webp" class="card-img-top" alt="Maillot Domicile FC Barcelone"></img>
                                 <div class="card-body">
                                     <h5 class="card-title">Maillot Domicile FC Barcelone</h5>
                                     <p class="card-text">Le maillot extérieur du FC Barcelone arbore un design vibrant et élégant, capturant l'identité du club sur la route.</p>
@@ -82,7 +82,7 @@ export function HomepageFR(){
 
                         <div class="col-lg-3 mb-2 mx-auto content">
                             <div class="card">
-                                <img src="https://citysoccerp.com/cdn/shop/products/image_aa57d3a7-c27c-43fa-9fa1-66acf305d906_1200x1200.jpg?v=1661964487" class="card-img-top" alt="..."></img>
+                                <img src="https://citysoccerp.com/cdn/shop/products/image_aa57d3a7-c27c-43fa-9fa1-66acf305d906_1200x1200.jpg?v=1661964487" class="card-img-top" alt="Maillot Domicile Real Madrid"></img>
                                 <div class="card-body">
                                     <h5 class="card-title">Maillot Domicile Real Madrid</h5>
                                     <p class="card-text">Le maillot domicile du Real Madrid incarne une élégance intemporelle, reflétant le riche héritage et la tradition du club.</p>
@@ -93,7 +93,7 @@ export function HomepageFR(){
                             
                         <div class="col-lg-3 mb-2 mx-auto content">
                             <div class="card">
-                                <img src="https://www.imagehandler.net/?istyle=0000&fmt=png&img=A1080070000&iset=0100&c=999&iindex=0007&w=600&h=600" class="card-img-top" alt="..."></img>
+                                <img src="https://www.imagehandler.net/?istyle=0000&fmt=png&img=A1080070000&iset=0100&c=999&iindex=0007&w=600&h=600" class="card-img-top" alt="Maillot PSG Domicile"></img>
                                 <div class="card-body">
                                     <h5 class="card-title">Maillot PSG Domicile</h5>
                                     <p class="card-text">Le maillot domicile du PSG incarne la sophistication élégante, mettant en valeur le style moderne et l'ambition du club.</p>

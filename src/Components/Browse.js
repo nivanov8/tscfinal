@@ -183,7 +183,7 @@ export function Browse(){
                                 </div>
                                 <div class="col-lg-2 col-md-4 col-sm-6 mb-2 mx-auto content">
                                     <div class="card card-sm">
-                                    <img src="https://www.evangelistasports.com/31170-medium_default/adidas-fc-bayern-munich-home-jersey-202223-H39900.jpg" class="card-img-top" alt="..."></img>
+                                    <img src="v" class="card-img-top" alt="..."></img>
                                     <div class="card-body">
                                         <p>Bayern Munich Home Jersey</p>
                                         <Link to="/item" class="stretched-link"></Link>

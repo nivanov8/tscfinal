@@ -52,7 +52,7 @@ export function ItemGeneric(){
                     <div class="row" style={{margin: "0em 0em 2em 4em"}}>
                         <div class="col-lg-3" style={{margin: "2em 0em 2em 2em"}}>
                             <div class="card display">
-                                <img src="https://cf.ijersey.ru/upload/ttmall/img/20220913/4ed0fb1aa13d93e4e4a80eb3e01e5c61.png=z-0,0_f-webp" class="card-img-top" alt="..."></img>
+                                <img src="https://cf.ijersey.ru/upload/ttmall/img/20220913/4ed0fb1aa13d93e4e4a80eb3e01e5c61.png=z-0,0_f-webp" class="card-img-top" alt="FC Barcelona away jersey"></img>
                             </div>
                         </div>
                         <div class="col-lg-4" style={{margin: "5em 0em 2em 3em"}}>

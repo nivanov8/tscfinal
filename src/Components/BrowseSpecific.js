@@ -162,7 +162,7 @@ export function BrowseSpecific(){
                             <div class="row">
                                 <div class="col-lg-2 col-md-4 col-sm-6 mb-2 mx-auto content">
                                     <div class="card card-sm">
-                                    <img src="https://cf.ijersey.ru/upload/ttmall/img/20220913/4ed0fb1aa13d93e4e4a80eb3e01e5c61.png=z-0,0_f-webp" class="card-img-top" alt="..."></img>
+                                    <img src="https://cf.ijersey.ru/upload/ttmall/img/20220913/4ed0fb1aa13d93e4e4a80eb3e01e5c61.png=z-0,0_f-webp" class="card-img-top" alt="FC Barcelona Away Jersey"></img>
                                     <div class="card-body">
                                         <p>FC Barcelona Away Jersey</p>
                                         <Link to="/item" class="stretched-link"></Link>
@@ -172,7 +172,7 @@ export function BrowseSpecific(){
                                 </div>
                                 <div class="col-lg-2 col-md-4 col-sm-6 mb-2 mx-auto content">
                                     <div class="card card-sm">
-                                    <img src="https://citysoccerp.com/cdn/shop/products/image_aa57d3a7-c27c-43fa-9fa1-66acf305d906_1200x1200.jpg?v=1661964487" class="card-img-top" alt="..."></img>
+                                    <img src="https://citysoccerp.com/cdn/shop/products/image_aa57d3a7-c27c-43fa-9fa1-66acf305d906_1200x1200.jpg?v=1661964487" class="card-img-top" alt="Real Madrid Home Jersey"></img>
                                     <div class="card-body">
                                         <p>Real Madrid Home Jersey</p>
                                         <Link to="/item" class="stretched-link"></Link>
@@ -182,7 +182,7 @@ export function BrowseSpecific(){
                                 </div>
                                 <div class="col-lg-2 col-md-4 col-sm-6 mb-2 mx-auto content">
                                     <div class="card card-sm">
-                                    <img src="https://www.evangelistasports.com/31170-medium_default/adidas-fc-bayern-munich-home-jersey-202223-H39900.jpg" class="card-img-top" alt="..."></img>
+                                    <img src="https://www.evangelistasports.com/31170-medium_default/adidas-fc-bayern-munich-home-jersey-202223-H39900.jpg" class="card-img-top" alt="Bayern Munich Home Jersey"></img>
                                     <div class="card-body">
                                         <p>Bayern Munich Home Jersey</p>
                                         <Link to="/item" class="stretched-link"></Link>
@@ -196,7 +196,7 @@ export function BrowseSpecific(){
                             <div class="row">
                                 <div class="col-lg-2 col-md-4 col-sm-6 mb-2 mx-auto content">
                                     <div class="card card-sm">
-                                    <img src="https://www.tfcfootball.com.my/wp-content/uploads/2023/05/770383-01.jpg" class="card-img-top" alt="..."></img>
+                                    <img src="https://www.tfcfootball.com.my/wp-content/uploads/2023/05/770383-01.jpg" class="card-img-top" alt="AC Milan Home Jersey"></img>
                                     <div class="card-body">
                                         <p>AC Milan Home Jersey</p>
                                         <Link to="/item" class="stretched-link"></Link>
@@ -206,7 +206,7 @@ export function BrowseSpecific(){
                                 </div>
                                 <div class="col-lg-2 col-md-4 col-sm-6 mb-2 mx-auto content">
                                     <div class="card card-sm invis">
-                                    <img src="https://citysoccerp.com/cdn/shop/products/image_aa57d3a7-c27c-43fa-9fa1-66acf305d906_1200x1200.jpg?v=1661964487" class="card-img-top" alt="..."></img>
+                                    <img src="https://citysoccerp.com/cdn/shop/products/image_aa57d3a7-c27c-43fa-9fa1-66acf305d906_1200x1200.jpg?v=1661964487" class="card-img-top" alt="Juventus Home Jersey"></img>
                                     <div class="card-body">
                                         <p>Juventus Home Jersey</p>
                                         <Link to="/item" class="stretched-link"></Link>
@@ -216,7 +216,7 @@ export function BrowseSpecific(){
                                 </div>
                                 <div class="col-lg-2 col-md-4 col-sm-6 mb-2 mx-auto content">
                                     <div class="card card-sm invis">
-                                    <img src="https://citysoccerp.com/cdn/shop/products/image_aa57d3a7-c27c-43fa-9fa1-66acf305d906_1200x1200.jpg?v=1661964487" class="card-img-top" alt="..."></img>
+                                    <img src="https://citysoccerp.com/cdn/shop/products/image_aa57d3a7-c27c-43fa-9fa1-66acf305d906_1200x1200.jpg?v=1661964487" class="card-img-top" alt="Manchester United Home Jersey"></img>
                                     <div class="card-body">
                                         <p>Manchester United Home Jersey</p>
                                         <Link to="/item" class="stretched-link"></Link>

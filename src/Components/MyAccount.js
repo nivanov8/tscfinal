@@ -53,7 +53,7 @@ export function MyAccount(){
                             <div class="row">
                             <div class="col-lg-2 col-md-4 col-sm-6 mb-2 mx-auto">
                                 <div class="card card-sm myacc">
-                                <img src="https://cf.ijersey.ru/upload/ttmall/img/20220913/4ed0fb1aa13d93e4e4a80eb3e01e5c61.png=z-0,0_f-webp" class="card-img-top" alt="..."></img>
+                                <img src="https://cf.ijersey.ru/upload/ttmall/img/20220913/4ed0fb1aa13d93e4e4a80eb3e01e5c61.png=z-0,0_f-webp" class="card-img-top" alt="FC Barcelona away jersey"></img>
                                 <div class="card-body">
                                     <h5 class="card-title">FC Barcelona Away Jersey</h5>
                                     <Link to="/item" class="stretched-link"></Link>
@@ -63,7 +63,7 @@ export function MyAccount(){
 
                             <div class="col-lg-2 col-md-4 col-sm-6 mb-2 mx-auto content">
                                 <div class="card card-sm myacc">
-                                <img src="https://citysoccerp.com/cdn/shop/products/image_aa57d3a7-c27c-43fa-9fa1-66acf305d906_1200x1200.jpg?v=1661964487" class="card-img-top" alt="..."></img>
+                                <img src="https://citysoccerp.com/cdn/shop/products/image_aa57d3a7-c27c-43fa-9fa1-66acf305d906_1200x1200.jpg?v=1661964487" class="card-img-top" alt="Real Madrid Home Jersey"></img>
                                 <div class="card-body">
                                     <h5 class="card-title">Real Madrid Home Jersey</h5>
                                     <Link to="/item" class="stretched-link"></Link>
@@ -73,7 +73,7 @@ export function MyAccount(){
 
                             <div class="col-lg-2 col-md-4 col-sm-6 mb-2 mx-auto content">
                                 <div class="card card-sm myacc">
-                                <img src="https://www.imagehandler.net/?istyle=0000&fmt=png&img=A1080070000&iset=0100&c=999&iindex=0007&w=600&h=600" class="card-img-top" alt="..."></img>
+                                <img src="https://www.imagehandler.net/?istyle=0000&fmt=png&img=A1080070000&iset=0100&c=999&iindex=0007&w=600&h=600" class="card-img-top" alt="PSG Home Jersey"></img>
                                 <div class="card-body">
                                     <h5 class="card-title">PSG Home Jersey</h5>
                                     <Link to="/item" class="stretched-link"></Link>
@@ -90,7 +90,7 @@ export function MyAccount(){
                                 <div class="row">
                                 <div class="col-lg-2 col-md-4 col-sm-6 mb-2 mx-auto">
                                     <div class="card card-sm myacc">
-                                    <img src="https://cf.ijersey.ru/upload/ttmall/img/20220913/4ed0fb1aa13d93e4e4a80eb3e01e5c61.png=z-0,0_f-webp" class="card-img-top" alt="..."></img>
+                                    <img src="https://cf.ijersey.ru/upload/ttmall/img/20220913/4ed0fb1aa13d93e4e4a80eb3e01e5c61.png=z-0,0_f-webp" class="card-img-top" alt="FC Barcelona Away Jersey"></img>
                                     <div class="card-body">
                                         <h5 class="card-title">FC Barcelona Away Jersey</h5>
                                         <Link to="/item" class="stretched-link"></Link>
@@ -100,7 +100,7 @@ export function MyAccount(){
 
                                 <div class="col-lg-2 col-md-4 col-sm-6 mb-2 mx-auto content">
                                     <div class="card card-sm myacc">
-                                    <img src="https://citysoccerp.com/cdn/shop/products/image_aa57d3a7-c27c-43fa-9fa1-66acf305d906_1200x1200.jpg?v=1661964487" class="card-img-top" alt="..."></img>
+                                    <img src="https://citysoccerp.com/cdn/shop/products/image_aa57d3a7-c27c-43fa-9fa1-66acf305d906_1200x1200.jpg?v=1661964487" class="card-img-top" alt="Real Madrid Home Jersey"></img>
                                     <div class="card-body">
                                         <h5 class="card-title">Real Madrid Home Jersey</h5>
                                         <Link to="/item" class="stretched-link"></Link>
@@ -110,7 +110,7 @@ export function MyAccount(){
 
                                 <div class="col-lg-2 col-md-4 col-sm-6 mb-2 mx-auto content">
                                     <div class="card card-sm myacc">
-                                    <img src="https://www.imagehandler.net/?istyle=0000&fmt=png&img=A1080070000&iset=0100&c=999&iindex=0007&w=600&h=600" class="card-img-top" alt="..."></img>
+                                    <img src="https://www.imagehandler.net/?istyle=0000&fmt=png&img=A1080070000&iset=0100&c=999&iindex=0007&w=600&h=600" class="card-img-top" alt="PSG Home Jersey"></img>
                                     <div class="card-body">
                                         <h5 class="card-title">PSG Home Jersey</h5>
                                         <Link to="/item" class="stretched-link"></Link>

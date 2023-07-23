@@ -77,7 +77,7 @@ export function AboutUs(){
                         </div>
 
                         <div className="col-sm-5" style={{ display: "flex", justifyContent: "flex-end", alignItems: "center"}}>
-                            <img src="https://wallpaperaccess.com/full/1150787.jpg" alt="Image description" class="imgbg" style={{ width: "60%", height: "auto"}} />
+                            <img src="https://wallpaperaccess.com/full/1150787.jpg" alt="Soccer Ball" class="imgbg" style={{ width: "60%", height: "auto"}} />
                         </div>
                     </div>
 
