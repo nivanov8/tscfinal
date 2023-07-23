@@ -87,7 +87,7 @@ export function BrowseSpecific(){
                                         <Link to="/browsespecific" style={{ textDecoration: 'none', color: "grey", marginLeft: "2em"}}>Club</Link>
                                         <br></br>
                                         <br></br>
-                                        <Link to="/browsespecific" style={{ textDecoration: 'none', color: "grey", marginLeft: "2em"}}>National Team</Link>
+                                        <Link to="/browsenational" style={{ textDecoration: 'none', color: "grey", marginLeft: "2em"}}>National Team</Link>
                                     </div>
                                     </div>
                                 </div>
@@ -99,7 +99,7 @@ export function BrowseSpecific(){
                                     </h2>
                                     <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
                                     <div class="accordion-body">
-                                    <Link to="/browsespecific" style={{ textDecoration: 'none', color: "grey", marginLeft: "2em"}}>Gloves</Link>
+                                    <Link to="/browsegloves" style={{ textDecoration: 'none', color: "grey", marginLeft: "2em"}}>Gloves</Link>
                                     </div>
                                     </div>
                                 </div>

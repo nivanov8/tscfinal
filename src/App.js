@@ -15,6 +15,9 @@ import Chat from './Components/Chat'
 import AboutUs from './Components/AboutUs';
 import ConfirmationCart from './Components/ConfirmationCart';
 import HomepageFR from './Components/HomepageFR';
+import BrowseNational from './Components/BrowseNational';
+import BrowseGloves from './Components/BrowseGloves';
+import NotFound from './Components/NotFound';
 
 function App() {
   return (
@@ -35,6 +38,9 @@ function App() {
       <Route path="/aboutus" element={<AboutUs />} />
       <Route path="/confirmationcart" element={<ConfirmationCart />} />
       <Route path="/homepagefr" element={<HomepageFR />} />
+      <Route path="/browsenational" element={<BrowseNational />} />
+      <Route path="/browsegloves" element={<BrowseGloves />} />
+      <Route path="*" element={<NotFound />} />
     </Routes>
     </>
   );

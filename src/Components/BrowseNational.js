@@ -1,7 +1,7 @@
 import '../App.css';
 import { Outlet, Link } from "react-router-dom";
 
-export function Browse(){
+export function BrowseNational(){
     return(
         <>
             <body>
@@ -66,7 +66,7 @@ export function Browse(){
                                 <h7 style={{margin: "0em 0em 0em 1em"}}>Filters</h7>
                             </div>
                             <div class="col-sm-10">
-                                <h7 style={{margin: "0em 0em 0em 7em"}}>150 Results found</h7>
+                                <h7 style={{margin: "0em 0em 0em 7em"}}>4 Results found</h7>
                             </div>
                             
                             
@@ -99,7 +99,7 @@ export function Browse(){
                                     </h2>
                                     <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
                                     <div class="accordion-body">
-                                    <Link to="/browsespecific" style={{ textDecoration: 'none', color: "grey", marginLeft: "2em"}}>Gloves</Link>
+                                    <Link to="/browsegloves" style={{ textDecoration: 'none', color: "grey", marginLeft: "2em"}}>Gloves</Link>
                                     </div>
                                     </div>
                                 </div>
@@ -159,33 +159,32 @@ export function Browse(){
                             <br></br>
                             <br></br>
 
-                            <div class="row" >
+                            <div class="row">
                                 <div class="col-lg-2 col-md-4 col-sm-6 mb-2 mx-auto content">
                                     <div class="card card-sm">
-                                    <img src="https://cf.ijersey.ru/upload/ttmall/img/20220913/4ed0fb1aa13d93e4e4a80eb3e01e5c61.png=z-0,0_f-webp" class="card-img-top" alt="..."></img>
+                                    <img src="https://images.footballfanatics.com/argentina-national-team/mens-adidas-lionel-messi-white/light-blue-argentina-national-team-2022-winners-home-replica-jersey_pi5279000_altimages_ff_5279386-37069dd8eb17664c7ad1alt2_full.jpg?_hv=2&w=600" class="card-img-top" alt="Argentina Home Jersey"></img>
                                     <div class="card-body">
-                                        <p>FC Barcelona Away Jersey</p>
+                                        <p>Argentina Home Jersey</p>
                                         <Link to="/item" class="stretched-link"></Link>
-                                        <p class="card-text" style={{float: "right"}}>$60</p>
+                                        <p class="card-text" style={{float: "right"}}>$55</p>
                                     </div>
                                     </div>
                                 </div>
                                 <div class="col-lg-2 col-md-4 col-sm-6 mb-2 mx-auto content">
                                     <div class="card card-sm">
-                                    <img src="https://citysoccerp.com/cdn/shop/products/image_aa57d3a7-c27c-43fa-9fa1-66acf305d906_1200x1200.jpg?v=1661964487" class="card-img-top" alt="..."></img>
+                                    <img src="https://media-www.atmosphere.ca/product/div-03-softgoods/dpt-74-licensed-clothing/sdpt-22-pro-soccer/333074461/germany-replica-jersey-home-white-s--5802bb21-c502-4579-ba23-c53ad6fb049f-jpgrendition.jpg" class="card-img-top" alt="Germany Home Jersey"></img>
                                     <div class="card-body">
-                                        <p>Real Madrid Home Jersey</p>
+                                        <p>Germany Home Jersey</p>
                                         <Link to="/item" class="stretched-link"></Link>
-                                        <p class="card-text" style={{float: "right"}}>$65</p>
+                                        <p class="card-text" style={{float: "right"}}>$55</p>
                                     </div>
-                                    
                                     </div>
                                 </div>
                                 <div class="col-lg-2 col-md-4 col-sm-6 mb-2 mx-auto content">
                                     <div class="card card-sm">
-                                    <img src="v" class="card-img-top" alt="..."></img>
+                                    <img src="https://static.wixstatic.com/media/3f13d8_38268b5389f44b549b8dff55ca25f516~mv2.jpg/v1/fill/w_520,h_520,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/3f13d8_38268b5389f44b549b8dff55ca25f516~mv2.jpg" class="card-img-top" alt="England Home Jersey"></img>
                                     <div class="card-body">
-                                        <p>Bayern Munich Home Jersey</p>
+                                        <p>England Home Jersey</p>
                                         <Link to="/item" class="stretched-link"></Link>
                                         <p class="card-text" style={{float: "right"}}>$55</p>
                                     </div>
@@ -194,20 +193,20 @@ export function Browse(){
                             </div>
 
 
-                            <div class="row" >
+                            <div class="row">
                                 <div class="col-lg-2 col-md-4 col-sm-6 mb-2 mx-auto content">
                                     <div class="card card-sm">
-                                    <img src="https://www.tfcfootball.com.my/wp-content/uploads/2023/05/770383-01.jpg" class="card-img-top" alt="..."></img>
+                                    <img src="https://jerseyloco.com/wp-content/uploads/2022/08/Screen-Shot-2022-09-15-at-4.18.19-AM-PhotoRoom.png" class="card-img-top" alt="Brazil Home Jersey"></img>
                                     <div class="card-body">
-                                        <p>AC Milan Home Jersey</p>
+                                        <p>Brazil Home Jersey</p>
                                         <Link to="/item" class="stretched-link"></Link>
-                                        <p class="card-text" style={{float: "right"}}>$50</p>
+                                        <p class="card-text" style={{float: "right"}}>$55</p>
                                     </div>
                                     </div>
                                 </div>
                                 <div class="col-lg-2 col-md-4 col-sm-6 mb-2 mx-auto content">
-                                    <div class="card card-sm">
-                                    <img src="https://cdn.shopify.com/s/files/1/0265/3719/7591/products/adidas-juventus-away-jersey-2022-23_840x.png?v=1658807207" class="card-img-top" alt="..."></img>
+                                    <div class="card card-sm invis">
+                                    <img src="https://citysoccerp.com/cdn/shop/products/image_aa57d3a7-c27c-43fa-9fa1-66acf305d906_1200x1200.jpg?v=1661964487" class="card-img-top" alt="Juventus Home Jersey"></img>
                                     <div class="card-body">
                                         <p>Juventus Home Jersey</p>
                                         <Link to="/item" class="stretched-link"></Link>
@@ -216,12 +215,12 @@ export function Browse(){
                                     </div>
                                 </div>
                                 <div class="col-lg-2 col-md-4 col-sm-6 mb-2 mx-auto content">
-                                    <div class="card card-sm">
-                                    <img src="https://cdn11.bigcommerce.com/s-k6q7hvb4ne/images/stencil/1280x1280/products/25397/15560/adidascg0040a__36060.1622001126.png?c=1" class="card-img-top" alt="..."></img>
+                                    <div class="card card-sm invis">
+                                    <img src="https://citysoccerp.com/cdn/shop/products/image_aa57d3a7-c27c-43fa-9fa1-66acf305d906_1200x1200.jpg?v=1661964487" class="card-img-top" alt="Manchester United Home Jersey"></img>
                                     <div class="card-body">
                                         <p>Manchester United Home Jersey</p>
                                         <Link to="/item" class="stretched-link"></Link>
-                                        <p class="card-text" style={{float: "right"}}>$60</p>
+                                        <p class="card-text" style={{float: "right"}}>$55</p>
                                     </div>
                                     </div>
                                 </div>
@@ -285,4 +284,4 @@ export function Browse(){
 
 }
 
-export default Browse;
+export default BrowseNational;
